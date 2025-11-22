@@ -1,0 +1,19 @@
+[
+    { "nome": "Normal", "cor": "#A8A878" },
+    { "nome": "Fogo", "cor": "#F08030" },
+    { "nome": "Agua", "cor": "#6890F0" },
+    { "nome": "Grama", "cor": "#78C850" },
+    { "nome": "Eletrico", "cor": "#F8D030" },
+    { "nome": "Gelo", "cor": "#98D8D8" },
+    { "nome": "Lutador", "cor": "#C03028" },
+    { "nome": "Veneno", "cor": "#A040A0" },
+    { "nome": "Terra", "cor": "#E0C068" },
+    { "nome": "Voador", "cor": "#A890F0" },
+    { "nome": "Psiquico", "cor": "#F85888" },
+    { "nome": "Inseto", "cor": "#A8B820" },
+    { "nome": "Pedra", "cor": "#B8A038" },
+    { "nome": "Fantasma", "cor": "#705898" },
+    { "nome": "Dragao", "cor": "#7038F8" },
+    { "nome": "Sombrio", "cor": "#705848" },
+    { "nome": "Aco", "cor": "#B8B8D0" }
+]

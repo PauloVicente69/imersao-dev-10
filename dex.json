@@ -1,0 +1,1210 @@
+[
+{
+    "Nome": "Bulbasaur",
+    "Numero": 1,
+    "Tipo": ["Grama", "Veneno"],
+    "Especie": "Pokemon Semente",
+    "Descricao FR": "Desde o dia em que este Pokémon nasce, ele carrega uma semente nas costas, que cresce lentamente com o tempo.",
+    "Descricao LG": "Uma estranha semente foi plantada nas suas costas ao nascer. A planta brota e cresce junto com este Pokémon."
+},
+{
+    "Nome": "Ivysaur",
+    "Numero": 2,
+    "Tipo": ["Grama", "Veneno"],
+    "Especie": "Pokemon Semente",
+    "Descricao FR": "Ele carrega um bulbo de planta nas costas. Quando absorve nutrientes, esse bulbo floresce, dando origem a uma grande flor.",
+    "Descricao LG": "Quando o bulbo nas suas costas cresce bastante, ele parece perder a capacidade de se sustentar nas patas traseiras."
+},
+{
+    "Nome": "Venusaur",
+    "Numero": 3,
+    "Tipo": ["Grama", "Veneno"],
+    "Especie": "Pokemon Semente",
+    "Descricao FR": "Um aroma encantador emana de sua flor. O perfume acalma aqueles que estão em meio a uma batalha.",
+    "Descricao LG": "Sua planta floresce enquanto absorve energia solar. Ele está sempre em movimento para buscar a luz do sol."
+},
+{
+    "Nome": "Charmander",
+    "Numero": 4,
+    "Tipo": ["Fogo"],
+    "Especie": "Pokemon Lagarto",
+    "Descricao FR": "Desde o momento em que nasce, uma chama arde na ponta da sua cauda. Sua vida terminaria se essa chama se apagasse.",
+    "Descricao LG": "Ele prefere coisas quentes. Quando chove, diz-se que vapor sai da ponta da sua cauda."
+},
+{
+    "Nome": "Charmeleon",
+    "Numero": 5,
+    "Tipo": ["Fogo"],
+    "Especie": "Pokemon Chama",
+    "Descricao FR": "Ele bate o inimigo com a cauda para derrubá-lo e depois rasga o oponente caído com suas garras afiadas.",
+    "Descricao LG": "Quando balança sua cauda em chamas, ele eleva a temperatura do ar a níveis insuportáveis."
+},
+{
+    "Nome": "Charizard",
+    "Numero": 6,
+    "Tipo": ["Fogo", "Voador"],
+    "Especie": "Pokemon Chama",
+    "Descricao FR": "Suas asas podem carregar este Pokémon até uma altitude próxima de 1.400 metros. Ele solta fogo em temperaturas muito altas.",
+    "Descricao LG": "Ele cospe fogo quente o suficiente para derreter grandes pedras. Pode causar incêndios florestais ao soprar suas chamas."
+},
+{
+    "Nome": "Squirtle",
+    "Numero": 7,
+    "Tipo": ["Agua"],
+    "Especie": "Pokémon Tartaruguinha",
+    "Descricao FR": "Quando recolhe seu longo pescoço para dentro da concha, ele dispara água com grande força.",
+    "Descricao LG": "Após o nascimento, suas costas crescem e endurecem, formando uma concha. Ele lança espuma com muita força pela boca."
+},
+{
+    "Nome": "Wartortle",
+    "Numero": 8,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Tartaruga",
+    "Descricao FR": "Este Pokémon é muito popular como animal de estimação. Sua cauda coberta de pelos é um símbolo de longevidade.",
+    "Descricao LG": "Ele costuma se esconder na água para observar presas desavisadas. Para nadar rápido, movimenta suas orelhas para manter o equilíbrio."
+},
+{
+    "Nome": "Blastoise",
+    "Numero": 9,
+    "Tipo": ["Agua"],
+    "Especie": "Pokémon Crustáceo",
+    "Descricao FR": "Ele esmagar o oponente com seu corpo pesado para fazê-lo desmaiar. Em uma emergência, ele se retrai dentro da concha para se proteger.",
+    "Descricao LG": "Os jatos de água pressurizada em sua carapaça são usados para ataques rápidos em alta velocidade."
+},
+{
+    "Nome": "Caterpie",
+    "Numero": 10,
+    "Tipo": ["Inseto"],
+    "Especie": "Pokemon Verme",
+    "Descricao FR": "Ele é coberto por uma pele verde. Ao crescer, troca essa pele, envolve-se em seda e se transforma em um casulo.",
+    "Descricao LG": "Suas patinhas curtas possuem ventosas que lhe permitem subir incansavelmente por encostas e paredes."
+},
+{
+    "Nome": "Metapod",
+    "Numero": 11,
+    "Tipo": ["Inseto"],
+    "Especie": "Pokemon Casulo",
+    "Descricao FR": "Sua casca é dura como uma placa de ferro. Um Metapod permanece imóvel, preparando seu interior macio para a evolução.",
+    "Descricao LG": "Este Pokémon está se preparando para sua evolução. Ele endurece sua casca para proteger seu corpo macio e frágil."
+},
+{
+    "Nome": "Butterfree",
+    "Numero": 12,
+    "Tipo": ["Inseto", "Voador"],
+    "Especie": "Pokemon Borboleta",
+    "Descricao FR": "Ele adora o néctar das flores e pode localizar canteiros de flores com pólen. Ele coleta néctar e o espalha em seu ninho.",
+    "Descricao LG": "A poeira em suas asas é repelente à água. Isso permite que ele voe em busca de néctar mesmo sob chuva forte."
+},
+{
+    "Nome": "Weedle",
+    "Numero": 13,
+    "Tipo": ["Inseto", "Veneno"],
+    "Especie": "Pokemon Inseto Peludo",
+    "Descricao FR": "Ele come o equivalente ao seu próprio peso em folhas todos os dias. Ele se defende de inimigos com o ferrão em sua cabeça.",
+    "Descricao LG": "Muitas vezes encontrado em florestas e campos, ele se alimenta de folhas. Possui um ferrão venenoso e afiado na cabeça."
+},
+{
+    "Nome": "Kakuna",
+    "Numero": 14,
+    "Tipo": ["Inseto", "Veneno"],
+    "Especie": "Pokemon Casulo",
+    "Descricao FR": "Quase incapaz de se mover, ele se apoia em uma árvore para se proteger de predadores. Ele está se preparando para sua evolução.",
+    "Descricao LG": "Embora seja um casulo, ele pode se mover um pouco. Ele pode estender seu ferrão venenoso se for ameaçado."
+},
+{
+    "Nome": "Beedrill",
+    "Numero": 15,
+    "Tipo": ["Inseto", "Veneno"],
+    "Especie": "Pokemon Abelha Venenosa",
+    "Descricao FR": "Ele tem três ferrões venenosos em suas patas dianteiras e cauda. Eles são usados para atacar seu inimigo repetidamente.",
+    "Descricao LG": "Pode voar em alta velocidade. Ele ataca usando os grandes ferrões venenosos em suas patas dianteiras e cauda."
+},
+{
+    "Nome": "Pidgey",
+    "Numero": 16,
+    "Tipo": ["Normal", "Voador"],
+    "Especie": "Pokemon Passarinho",
+    "Descricao FR": "Muito dócil. Se atacado, ele frequentemente levanta areia para se proteger, em vez de revidar.",
+    "Descricao LG": "Comum em florestas e campos. Ele bate suas asas no chão para levantar nuvens de areia que ofuscam."
+},
+{
+    "Nome": "Pidgeotto",
+    "Numero": 17,
+    "Tipo": ["Normal", "Voador"],
+    "Especie": "Pokemon Pássaro",
+    "Descricao FR": "Este Pokémon é cheio de vitalidade. Ele voa constantemente por seu vasto território em busca de presas.",
+    "Descricao LG": "A área que ele reivindica como seu território é enorme. Ele voa patrulhando e perfurará impiedosamente qualquer intruso com suas garras afiadas."
+},
+{
+    "Nome": "Pidgeot",
+    "Numero": 18,
+    "Tipo": ["Normal", "Voador"],
+    "Especie": "Pokemon Pássaro",
+    "Descricao FR": "Ele se espalha por seu território em busca de presas e é capaz de voar a uma velocidade de Mach 2.",
+    "Descricao LG": "Este Pokémon voa na velocidade de Mach 2, procurando por presas. Suas grandes garras são temidas como armas perversas."
+},
+{
+    "Nome": "Rattata",
+    "Numero": 19,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Rato",
+    "Descricao FR": "Morde qualquer coisa quando está atacando. Pequeno e rápido, é uma visão comum em muitos lugares.",
+    "Descricao LG": "Suas presas são longas e afiadas. Elas crescem continuamente, então ele deve roer objetos duros para desgastá-las."
+},
+{
+    "Nome": "Raticate",
+    "Numero": 20,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Rato",
+    "Descricao FR": "Suas patas traseiras são palmadas. Elas agem como nadadeiras, então ele pode nadar em rios para caçar presas.",
+    "Descricao LG": "Ele rói coisas com suas presas resistentes. Pode derrubar até mesmo paredes de concreto."
+},
+{
+    "Nome": "Spearow",
+    "Numero": 21,
+    "Tipo": ["Normal", "Voador"],
+    "Especie": "Pokemon Passarinho",
+    "Descricao FR": "Inepto em voar alto. No entanto, ele pode voar muito rápido para proteger seu território.",
+    "Descricao LG": "Come insetos em áreas gramadas. Ele bate suas asas curtas em alta velocidade para permanecer no ar."
+},
+{
+    "Nome": "Fearow",
+    "Numero": 22,
+    "Tipo": ["Normal", "Voador"],
+    "Especie": "Pokemon Bico",
+    "Descricao FR": "Um Pokémon que existe desde os tempos antigos. Se sentir perigo, ele voa alto e para longe, instantaneamente.",
+    "Descricao LG": "Seu bico longo e fino é ótimo para capturar presas no chão ou na água. Ele mergulha do céu para atacar."
+},
+{
+    "Nome": "Ekans",
+    "Numero": 23,
+    "Tipo": ["Veneno"],
+    "Especie": "Pokemon Cobra",
+    "Descricao FR": "Move-se silenciosamente e furtivamente. Ele come os ovos de pássaros como Pidgey e Spearow, inteiros.",
+    "Descricao LG": "Quanto mais velho fica, mais ele cresce. À noite, ele se enrola nos galhos das árvores para descansar."
+},
+{
+    "Nome": "Arbok",
+    "Numero": 24,
+    "Tipo": ["Veneno"],
+    "Especie": "Pokemon Cobra",
+    "Descricao FR": "Diz-se que as marcas ferozes e assustadoras em sua barriga diferem de área para área.",
+    "Descricao LG": "Para intimidar os inimigos, ele incha o peito e emite sons estranhos e ameaçadores de sua boca."
+},
+{
+    "Nome": "Pikachu",
+    "Numero": 25,
+    "Tipo": ["Eletrico"],
+    "Especie": "Pokemon Rato",
+    "Descricao FR": "Ele tem pequenas bolsas elétricas em suas bochechas. Se ameaçado, ele libera cargas elétricas dessas bolsas.",
+    "Descricao LG": "Quando vários desses Pokémon se reúnem, sua eletricidade pode se acumular e causar tempestades de raios."
+},
+{
+    "Nome": "Raichu",
+    "Numero": 26,
+    "Tipo": ["Eletrico"],
+    "Especie": "Pokemon Rato",
+    "Descricao FR": "Sua cauda longa atua como um aterramento para se proteger de sua própria energia de alta voltagem.",
+    "Descricao LG": "Sua carga elétrica pode chegar a 100.000 volts. Descuidado, pode eletrocutar até a si mesmo."
+},
+{
+    "Nome": "Sandshrew",
+    "Numero": 27,
+    "Tipo": ["Terra"],
+    "Especie": "Pokemon Rato",
+    "Descricao FR": "Ele se enterra e vive no subsolo. Se ameaçado, ele se enrola em uma bola para se proteger.",
+    "Descricao LG": "Para se proteger de ataques, ele se enrola em uma bola. Ele cresce em áreas áridas com pouca chuva."
+},
+{
+    "Nome": "Sandslash",
+    "Numero": 28,
+    "Tipo": ["Terra"],
+    "Especie": "Pokemon Rato",
+    "Descricao FR": "É hábil em se enrolar em uma bola espinhosa. Em sua forma de bola, pode rolar para atacar ou escapar.",
+    "Descricao LG": "Ele se enrola para se proteger de ataques. Também pode rolar para atacar ou escapar."
+},
+{
+    "Nome": "Nidoran♀",
+    "Numero": 29,
+    "Tipo": ["Veneno"],
+    "Especie": "Pokemon Espinho Venenoso",
+    "Descricao FR": "Embora pequena, suas farpas venenosas a tornam perigosa. A fêmea tem chifres menores.",
+    "Descricao LG": "As fêmeas são mais sensíveis a cheiros do que os machos. Elas usam seus bigodes para verificar a direção do vento e procurar comida a favor do vento."
+},
+{
+    "Nome": "Nidorina",
+    "Numero": 30,
+    "Tipo": ["Veneno"],
+    "Especie": "Pokemon Espinho Venenoso",
+    "Descricao FR": "O chifre da fêmea se desenvolve lentamente. Prefere ataques físicos como arranhar e morder.",
+    "Descricao LG": "Quando está com a família e amigos, ela retrai suas farpas para evitar feri-los."
+},
+{
+    "Nome": "Nidoqueen",
+    "Numero": 31,
+    "Tipo": ["Veneno", "Terra"],
+    "Especie": "Pokemon Broca",
+    "Descricao FR": "Seu corpo é coberto por escamas duras. Ele é conhecido por enviar inimigos voando com investidas duras.",
+    "Descricao LG": "As escamas duras fornecem proteção forte. Ele usa seu corpo pesado para executar movimentos poderosos."
+},
+{
+    "Nome": "Nidoran♂",
+    "Numero": 32,
+    "Tipo": ["Veneno"],
+    "Especie": "Pokemon Espinho Venenoso",
+    "Descricao FR": "Ele enrijece suas orelhas para sentir o perigo. Quanto maiores seus chifres, mais forte seu veneno.",
+    "Descricao LG": "Ele escaneia seus arredores levantando as orelhas para fora da grama. Seu chifre tóxico é para proteção."
+},
+{
+    "Nome": "Nidorino",
+    "Numero": 33,
+    "Tipo": ["Veneno"],
+    "Especie": "Pokemon Espinho Venenoso",
+    "Descricao FR": "Um Pokémon agressivo que é rápido em atacar. O chifre em sua cabeça secreta um veneno potente.",
+    "Descricao LG": "Ele tem um temperamento violento. Ele apunhala inimigos com seu chifre, que secreta veneno ao contato."
+},
+{
+    "Nome": "Nidoking",
+    "Numero": 34,
+    "Tipo": ["Veneno", "Terra"],
+    "Especie": "Pokemon Broca",
+    "Descricao FR": "Ele usa sua cauda poderosa em batalha para esmagar, constringir e depois quebrar os ossos de sua presa.",
+    "Descricao LG": "Um golpe de sua cauda poderosa pode quebrar um poste telefônico como se fosse um palito de fósforo. Uma vez que ele se enfurece, não há como detê-lo."
+},
+{
+    "Nome": "Clefairy",
+    "Numero": 35,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Fada",
+    "Descricao FR": "Sua aparência mágica e fofa atrai muitas pessoas. Ele é raro e só aparece em certas áreas.",
+    "Descricao LG": "A luz da lua que ele armazena em suas asas nas costas lhe dá a capacidade de flutuar no ar."
+},
+{
+    "Nome": "Clefable",
+    "Numero": 36,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Fada",
+    "Descricao FR": "Um Pokémon tímido que raramente é visto. Ele foge e se esconde no momento em que detecta pessoas.",
+    "Descricao LG": "Ele tem uma audição aguda. Ele pode ouvir facilmente um alfinete caindo a mais de 1 km de distância."
+},
+{
+    "Nome": "Vulpix",
+    "Numero": 37,
+    "Tipo": ["Fogo"],
+    "Especie": "Pokemon Raposa",
+    "Descricao FR": "Enquanto jovem, tem seis caudas magníficas. Quando envelhece, várias caudas novas brotam.",
+    "Descricao LG": "Desde o nascimento, tem caudas brancas. Elas ficam vermelhas e se dividem em seis se receberem bastante amor de seu treinador."
+},
+{
+    "Nome": "Ninetales",
+    "Numero": 38,
+    "Tipo": ["Fogo"],
+    "Especie": "Pokemon Raposa",
+    "Descricao FR": "Diz-se que cada uma de suas nove caudas é imbuída de seu próprio poder místico único.",
+    "Descricao LG": "Muito inteligente e vingativo. Agarrar uma de suas caudas pode resultar em uma maldição de 1.000 anos."
+},
+{
+    "Nome": "Jigglypuff",
+    "Numero": 39,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Balão",
+    "Descricao FR": "Quando seus enormes olhos vacilam, ele canta uma melodia misteriosamente reconfortante que embala seus inimigos para dormir.",
+    "Descricao LG": "Ele cativa os inimigos com seus olhos redondos e fofos e depois os embala para dormir cantando uma canção de ninar suave."
+},
+{
+    "Nome": "Wigglytuff",
+    "Numero": 40,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Balão",
+    "Descricao FR": "Sua pelagem é da mais alta classe. Dormir com um é simplesmente divino. Seu corpo se expande quando inala.",
+    "Descricao LG": "Sua pelagem é extremamente fina. Ele não hesitará em inflar-se com raiva quando seus sentimentos forem feridos."
+},
+{
+    "Nome": "Zubat",
+    "Numero": 41,
+    "Tipo": ["Veneno", "Voador"],
+    "Especie": "Pokemon Morcego",
+    "Descricao FR": "Ele emite ondas ultrassônicas de sua boca para verificar seus arredores. Mesmo em cavernas apertadas, Zubat voa com habilidade.",
+    "Descricao LG": "Forma colônias em locais escuros. Ele usa ondas ultrassônicas para identificar e se aproximar de alvos."
+},
+{
+    "Nome": "Golbat",
+    "Numero": 42,
+    "Tipo": ["Veneno", "Voador"],
+    "Especie": "Pokemon Morcego",
+    "Descricao FR": "Ele tem um grande apetite. Ele persegue presas mesmo em noites escuras e suga mais de 300 ml de sangue.",
+    "Descricao LG": "Uma vez que ele começa a sugar sangue, ele não para até estar cheio. Ele procura por presas que voam pelo céu noturno."
+},
+{
+    "Nome": "Oddish",
+    "Numero": 43,
+    "Tipo": ["Grama", "Veneno"],
+    "Especie": "Pokemon Erva Daninha",
+    "Descricao FR": "Durante o dia, ele se mantém no subsolo frio para evitar o sol. Ele cresce banhando-se ao luar.",
+    "Descricao LG": "Seu nome científico é 'Oddium Wanderus'. Diz-se que ele anda mais de 300 metros à noite em suas duas raízes."
+},
+{
+    "Nome": "Gloom",
+    "Numero": 44,
+    "Tipo": ["Grama", "Veneno"],
+    "Especie": "Pokemon Erva Daninha",
+    "Descricao FR": "O néctar que escorre de sua boca não é doce. É pegajoso e fede terrivelmente. No entanto, alguns o apreciam.",
+    "Descricao LG": "O que parece ser baba é na verdade um néctar doce que pode ser usado para atrair presas. Ele fede terrivelmente."
+},
+{
+    "Nome": "Vileplume",
+    "Numero": 45,
+    "Tipo": ["Grama", "Veneno"],
+    "Especie": "Pokemon Flor",
+    "Descricao FR": "Quanto maiores suas pétalas, mais tóxico é seu pólen. Sua cabeça grande e pesada o torna lento.",
+    "Descricao LG": "Ele tem as maiores pétalas do mundo. A cada passo, as pétalas balançam e espalham nuvens de pólen tóxico."
+},
+{
+    "Nome": "Paras",
+    "Numero": 46,
+    "Tipo": ["Inseto", "Grama"],
+    "Especie": "Pokemon Cogumelo",
+    "Descricao FR": "Ele se enterra sob o solo para roer as raízes das árvores. Os cogumelos em suas costas absorvem a maior parte da nutrição.",
+    "Descricao LG": "Cogumelos chamados tochukaso crescem em suas costas. Eles crescem grandes à medida que o hospedeiro inseto cresce."
+},
+{
+    "Nome": "Parasect",
+    "Numero": 47,
+    "Tipo": ["Inseto", "Grama"],
+    "Especie": "Pokemon Cogumelo",
+    "Descricao FR": "Um hospedeiro e parasita em um. O cogumelo assumiu o controle. Ele prefere lugares úmidos.",
+    "Descricao LG": "Um cogumelo parasita maior que o hospedeiro controla efetivamente o inseto. Esporos venenosos são espalhados pelo cogumelo."
+},
+{
+    "Nome": "Venonat",
+    "Numero": 48,
+    "Tipo": ["Inseto", "Veneno"],
+    "Especie": "Pokemon Inseto",
+    "Descricao FR": "Seus grandes olhos agem como radar. Na escuridão, eles podem detectar até mesmo as menores presas.",
+    "Descricao LG": "Venenos escorrem por todo o seu corpo peludo. Ele é atraído pela luz à noite."
+},
+{
+    "Nome": "Venomoth",
+    "Numero": 49,
+    "Tipo": ["Inseto", "Veneno"],
+    "Especie": "Pokemon Mariposa Venenosa",
+    "Descricao FR": "As escamas que cobrem suas asas são de cores variadas. Elas espalham um pó venenoso a cada batida de asas.",
+    "Descricao LG": "As escamas em forma de poeira em suas asas são venenosas se tocadas. Ele bate suas asas para espalhar a poeira."
+},
+{
+    "Nome": "Diglett",
+    "Numero": 50,
+    "Tipo": ["Terra"],
+    "Especie": "Pokemon Toupeira",
+    "Descricao FR": "Vive cerca de um metro abaixo do solo, onde se alimenta de raízes de plantas. Às vezes, aparece acima do solo.",
+    "Descricao LG": "Sua pele é muito fina. Se for exposta ao sol, seu sangue esquentará e ele desmaiará. Ele permanece no subsolo."
+},
+{
+    "Nome": "Dugtrio",
+    "Numero": 51,
+    "Tipo": ["Terra"],
+    "Especie": "Pokemon Toupeira",
+    "Descricao FR": "Um trio de Diglett. Causa terremotos enormes cavando 100 km abaixo da superfície da terra.",
+    "Descricao LG": "Em batalha, ele cava no subsolo para atacar o inimigo por trás. Ele pode cavar a uma velocidade de 100 km/h."
+},
+{
+    "Nome": "Meowth",
+    "Numero": 52,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Gato Arranhão",
+    "Descricao FR": "Adora objetos redondos. Ele anda pela noite procurando por moedas perdidas.",
+    "Descricao LG": "Um Pokémon noturno que é atraído por objetos brilhantes. Ele vagueia pelas ruas da cidade à noite em busca de moedas perdidas."
+},
+{
+    "Nome": "Persian",
+    "Numero": 53,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Gato Fino",
+    "Descricao FR": "Embora sua pelagem seja bonita, ele é difícil de criar como animal de estimação por causa de sua natureza inconstante e cruel.",
+    "Descricao LG": "A joia em sua testa brilha quando ele está pronto para atacar. Ele é muito popular por sua pelagem elegante."
+},
+{
+    "Nome": "Psyduck",
+    "Numero": 54,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Pato",
+    "Descricao FR": "Embora pareça vago, ele tem poderes psíquicos misteriosos. Ele não consegue se lembrar de ter usado seus poderes.",
+    "Descricao LG": "Ele sofre de dores de cabeça crônicas. Quando a dor de cabeça fica intensa, ele começa a usar poderes psíquicos."
+},
+{
+    "Nome": "Golduck",
+    "Numero": 55,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Pato",
+    "Descricao FR": "As membranas em seus membros e seu corpo aerodinâmico lhe dão uma velocidade tremenda na água.",
+    "Descricao LG": "Muitas vezes visto nadando elegantemente ao longo das margens dos lagos. Ele é mais rápido do que qualquer nadador humano."
+},
+{
+    "Nome": "Mankey",
+    "Numero": 56,
+    "Tipo": ["Lutador"],
+    "Especie": "Pokemon Porco Macaco",
+    "Descricao FR": "Extremamente rápido para se irritar. Pode ficar furioso sem motivo aparente.",
+    "Descricao LG": "Leve e ágil, ele vive no alto das árvores. Se ficar com raiva, ele desce e se enfurece."
+},
+{
+    "Nome": "Primeape",
+    "Numero": 57,
+    "Tipo": ["Lutador"],
+    "Especie": "Pokemon Porco Macaco",
+    "Descricao FR": "Sempre furioso e tenaz. Ele não desistirá de perseguir sua presa até que a pegue.",
+    "Descricao LG": "Ele fica com raiva se alguém encontrar seu olhar. Ele persegue qualquer um que o irrite, não importa o quão longe."
+},
+{
+    "Nome": "Growlithe",
+    "Numero": 58,
+    "Tipo": ["Fogo"],
+    "Especie": "Pokemon Cachorrinho",
+    "Descricao FR": "Muito amigável e fiel às pessoas. Ele tentará afastar qualquer inimigo latindo e mordendo.",
+    "Descricao LG": "Um Pokémon com um olfato superior. Uma vez que ele cheira algo, ele nunca esquece o cheiro, não importa o que aconteça."
+},
+{
+    "Nome": "Arcanine",
+    "Numero": 59,
+    "Tipo": ["Fogo"],
+    "Especie": "Pokemon Lendário",
+    "Descricao FR": "Um Pokémon lendário na China. Muitas pessoas são cativadas por sua beleza.",
+    "Descricao LG": "Sua corrida magnífica e majestosa cativou as pessoas por eras."
+},
+{
+    "Nome": "Poliwag",
+    "Numero": 60,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Girino",
+    "Descricao FR": "Sua pele é fina. É possível ver seus órgãos internos em espiral através da pele.",
+    "Descricao LG": "A espiral em sua barriga é na verdade parte de seus órgãos internos que estão sendo vistos através de sua pele fina."
+},
+{
+    "Nome": "Poliwhirl",
+    "Numero": 61,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Girino",
+    "Descricao FR": "Capaz de viver dentro e fora da água. Fora da água, ele transpira para manter seu corpo úmido.",
+    "Descricao LG": "A espiral em sua barriga gira lentamente. Olhar para ela induz gradualmente a sonolência."
+},
+{
+    "Nome": "Poliwrath",
+    "Numero": 62,
+    "Tipo": ["Agua", "Lutador"],
+    "Especie": "Pokemon Girino",
+    "Descricao FR": "Um nadador especialista, ele é adepto tanto do nado crawl quanto do nado de peito. Ele pode facilmente superar os melhores nadadores humanos.",
+    "Descricao LG": "Com músculos fortes e bem desenvolvidos, ele pode nadar através do Oceano Pacífico sem esforço."
+},
+{
+    "Nome": "Abra",
+    "Numero": 63,
+    "Tipo": ["Psiquico"],
+    "Especie": "Pokemon Psi",
+    "Descricao FR": "Ele dorme 18 horas por dia. Se sentir perigo, ele se teletransportará para um local seguro, mesmo enquanto dorme.",
+    "Descricao LG": "Usando seus poderes psíquicos, ele pode sentir o perigo iminente e se teletransportar para um local seguro."
+},
+{
+    "Nome": "Kadabra",
+    "Numero": 64,
+    "Tipo": ["Psiquico"],
+    "Especie": "Pokemon Psi",
+    "Descricao FR": "Ele emite ondas alfa peculiares de seu corpo que causam dores de cabeça em qualquer um que se aproxime.",
+    "Descricao LG": "Diz-se que um menino com poderes psíquicos se transformou em Kadabra enquanto ajudava em uma pesquisa."
+},
+{
+    "Nome": "Alakazam",
+    "Numero": 65,
+    "Tipo": ["Psiquico"],
+    "Especie": "Pokemon Psi",
+    "Descricao FR": "Seu cérebro pode superar um supercomputador. Seu QI é estimado em 5.000.",
+    "Descricao LG": "É dito que ele tem um QI de 5.000. Ele tem todas as informações do mundo memorizadas."
+},
+{
+    "Nome": "Machop",
+    "Numero": 66,
+    "Tipo": ["Lutador"],
+    "Especie": "Pokemon Superpoder",
+    "Descricao FR": "Adora treinar e construir seus músculos. Ele tem força suficiente para arremessar 100 adultos.",
+    "Descricao LG": "Seus músculos nunca ficam doloridos, não importa o quanto ele se exercite. Ele tem poder suficiente para arremessar 100 pessoas."
+},
+{
+    "Nome": "Machoke",
+    "Numero": 67,
+    "Tipo": ["Lutador"],
+    "Especie": "Pokemon Superpoder",
+    "Descricao FR": "Seu corpo musculoso é tão poderoso que ele deve usar um cinto de contenção de energia para regular seus movimentos.",
+    "Descricao LG": "O corpo musculoso e treinado de um Machoke é tão poderoso que ele precisa usar um cinto para conter sua energia."
+},
+{
+    "Nome": "Machamp",
+    "Numero": 68,
+    "Tipo": ["Lutador"],
+    "Especie": "Pokemon Superpoder",
+    "Descricao FR": "Seus quatro braços superpoderosos podem desferir uma enxurrada de 1.000 socos em apenas dois segundos.",
+    "Descricao LG": "Ele pode socar com extrema rapidez. Ele pode desferir 1.000 socos em dois segundos."
+},
+{
+    "Nome": "Bellsprout",
+    "Numero": 69,
+    "Tipo": ["Grama", "Veneno"],
+    "Especie": "Pokemon Flor",
+    "Descricao FR": "Um Pokémon carnívoro que prende e come insetos. Ele usa suas raízes para absorver umidade.",
+    "Descricao LG": "Ele prefere lugares quentes e úmidos. Ele captura presas pequenas e desavisadas com suas vinhas."
+},
+{
+    "Nome": "Weepinbell",
+    "Numero": 70,
+    "Tipo": ["Grama", "Veneno"],
+    "Especie": "Pokemon Papa-insetos",
+    "Descricao FR": "Ele cospe um pó que derrete qualquer coisa. Ele então borrifa um fluido para dissolver o inimigo.",
+    "Descricao LG": "Quando está com fome, ele engole qualquer coisa que se mova. Sua presa é derretida por um ácido forte."
+},
+{
+    "Nome": "Victreebel",
+    "Numero": 71,
+    "Tipo": ["Grama", "Veneno"],
+    "Especie": "Pokemon Papa-insetos",
+    "Descricao FR": "Diz-se que vive em grandes colônias nas profundezas das selvas. Ninguém jamais retornou de uma.",
+    "Descricao LG": "Atrai presas com um aroma doce de mel. Uma vez dentro, a presa é derretida em cerca de um dia."
+},
+{
+    "Nome": "Tentacool",
+    "Numero": 72,
+    "Tipo": ["Agua", "Veneno"],
+    "Especie": "Pokemon Água-viva",
+    "Descricao FR": "Seu corpo é quase todo composto de água. Ele dispara raios estranhos de seus olhos semelhantes a cristais.",
+    "Descricao LG": "Ele flutua em águas rasas. Os pescadores que o fisgam por engano são muitas vezes picados por seus tentáculos venenosos."
+},
+{
+    "Nome": "Tentacruel",
+    "Numero": 73,
+    "Tipo": ["Agua", "Veneno"],
+    "Especie": "Pokemon Água-viva",
+    "Descricao FR": "Ele tem 80 tentáculos que se movem livremente. Eles podem picar, causando dor aguda e paralisia.",
+    "Descricao LG": "Seus 80 tentáculos podem se esticar e encolher livremente. Eles prendem a presa e a imobilizam com veneno."
+},
+{
+    "Nome": "Geodude",
+    "Numero": 74,
+    "Tipo": ["Pedra", "Terra"],
+    "Especie": "Pokemon Rocha",
+    "Descricao FR": "Encontrado em campos e montanhas. As pessoas os confundem com pedras e tropeçam neles.",
+    "Descricao LG": "Orgulhoso de seu corpo robusto, ele se choca contra outros para provar sua dureza."
+},
+{
+    "Nome": "Graveler",
+    "Numero": 75,
+    "Tipo": ["Pedra", "Terra"],
+    "Especie": "Pokemon Rocha",
+    "Descricao FR": "Rola montanhas abaixo para se mover. Ele rola sobre qualquer obstáculo sem diminuir a velocidade ou mudar de direção.",
+    "Descricao LG": "Ele desce encostas de montanhas, esmagando árvores e pedregulhos. Ele se alimenta de rochas."
+},
+{
+    "Nome": "Golem",
+    "Numero": 76,
+    "Tipo": ["Pedra", "Terra"],
+    "Especie": "Pokemon Megaton",
+    "Descricao FR": "Diz-se que vive em crateras vulcânicas em picos de montanhas. Uma vez por ano, ele troca de pele.",
+    "Descricao LG": "Ele se enrola em uma bola para rolar montanhas abaixo. Ele pode facilmente ultrapassar 120 km/h."
+},
+{
+    "Nome": "Ponyta",
+    "Numero": 77,
+    "Tipo": ["Fogo"],
+    "Especie": "Pokemon Cavalo de Fogo",
+    "Descricao FR": "Seus cascos são 10 vezes mais duros que diamante. Ele pode pisotear qualquer coisa até ficar completamente plano.",
+    "Descricao LG": "Capaz de pular incrivelmente alto. Suas pernas e cascos fortes absorvem o choque do pouso."
+},
+{
+    "Nome": "Rapidash",
+    "Numero": 78,
+    "Tipo": ["Fogo"],
+    "Especie": "Pokemon Cavalo de Fogo",
+    "Descricao FR": "Muito competitivo, este Pokémon perseguirá qualquer coisa que se mova rápido na esperança de competir.",
+    "Descricao LG": "A uma velocidade máxima de 240 km/h, ele galopa, sua crina flamejante brilhando intensamente."
+},
+{
+    "Nome": "Slowpoke",
+    "Numero": 79,
+    "Tipo": ["Agua", "Psiquico"],
+    "Especie": "Pokemon Lento",
+    "Descricao FR": "Incrivelmente lento e estúpido. Leva 5 segundos para sentir dor quando atacado.",
+    "Descricao LG": "É sempre encontrado perto da água. Se sua cauda for mordida por um Shellder, ele evoluirá para um Slowbro."
+},
+{
+    "Nome": "Slowbro",
+    "Numero": 80,
+    "Tipo": ["Agua", "Psiquico"],
+    "Especie": "Pokemon Ermitão",
+    "Descricao FR": "O Shellder preso à sua cauda se alimenta dos restos de comida do Slowbro. O Slowbro não consegue pescar com sua cauda.",
+    "Descricao LG": "Quando um Slowpoke foi pescar, sua cauda foi mordida por um Shellder. Ele então evoluiu para Slowbro."
+},
+{
+    "Nome": "Magnemite",
+    "Numero": 81,
+    "Tipo": ["Eletrico", "Aco"],
+    "Especie": "Pokemon Ímã",
+    "Descricao FR": "Formado por ímãs em forma de U em seus lados. Ele flutua no ar, emitindo ondas eletromagnéticas.",
+    "Descricao LG": "As unidades em seus lados são ímãs. Eles geram um campo magnético que o mantém flutuando no ar."
+},
+{
+    "Nome": "Magneton",
+    "Numero": 82,
+    "Tipo": ["Eletrico", "Aco"],
+    "Especie": "Pokemon Ímã",
+    "Descricao FR": "Formado por vários Magnemite ligados. Ele emite um forte campo magnético que pode danificar instrumentos mecânicos.",
+    "Descricao LG": "Um Magneton é formado por três Magnemite ligados por magnetismo. Ele gera fortes ondas de rádio."
+},
+{
+    "Nome": "Farfetch'd",
+    "Numero": 83,
+    "Tipo": ["Normal", "Voador"],
+    "Especie": "Pokemon Pato Selvagem",
+    "Descricao FR": "O talo de planta que ele segura é sua arma. O talo é usado para construir seu ninho.",
+    "Descricao LG": "Ele sempre carrega um talo de algum tipo de planta. Diz-se que ele não pode viver sem ele."
+},
+{
+    "Nome": "Doduo",
+    "Numero": 84,
+    "Tipo": ["Normal", "Voador"],
+    "Especie": "Pokemon Pássaro Gêmeo",
+    "Descricao FR": "Um pássaro que compensa sua incapacidade de voar correndo rápido. Ele deixa pegadas enormes.",
+    "Descricao LG": "Suas duas cabeças nunca dormem ao mesmo tempo. Elas se revezam para que uma cabeça possa vigiar o perigo enquanto a outra dorme."
+},
+{
+    "Nome": "Dodrio",
+    "Numero": 85,
+    "Tipo": ["Normal", "Voador"],
+    "Especie": "Pokemon Pássaro Triplo",
+    "Descricao FR": "Usa suas três cabeças para expressar alegria, tristeza e raiva. Ele corre a velocidades de mais de 60 km/h.",
+    "Descricao LG": "Um Pokémon incomum que tem três cabeças. Ele corre livremente pelas planícies a quase 60 km/h."
+},
+{
+    "Nome": "Seel",
+    "Numero": 86,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Leão Marinho",
+    "Descricao FR": "O chifre em sua cabeça é duro como gelo. Ele pode quebrar o gelo flutuante para procurar comida.",
+    "Descricao LG": "Coberto com uma pelagem branca pura, quanto mais frio fica, mais ativo ele se torna."
+},
+{
+    "Nome": "Dewgong",
+    "Numero": 87,
+    "Tipo": ["Agua", "Gelo"],
+    "Especie": "Pokemon Leão Marinho",
+    "Descricao FR": "Seu corpo inteiro é branco como a neve. Imaculado e intocado por qualquer coisa, ele é protegido como um tesouro.",
+    "Descricao LG": "Seu corpo é coberto por uma pelagem branca pura. A pelagem o protege do frio, permitindo que ele nade em águas geladas."
+},
+{
+    "Nome": "Grimer",
+    "Numero": 88,
+    "Tipo": ["Veneno"],
+    "Especie": "Pokemon Lodo",
+    "Descricao FR": "Aparece em áreas imundas. Ele prospera sugando o lodo que escoa das fábricas.",
+    "Descricao LG": "Onde quer que Grimer tenha passado, germes tóxicos permanecem, fazendo com que as ervas daninhas nunca mais cresçam."
+},
+{
+    "Nome": "Muk",
+    "Numero": 89,
+    "Tipo": ["Veneno"],
+    "Especie": "Pokemon Lodo",
+    "Descricao FR": "Coberto por um lodo imundo e vil. É tão tóxico que até mesmo suas pegadas contêm veneno.",
+    "Descricao LG": "Ele é coberto por um lodo imundo. O fedor é tão forte que pode causar desmaios."
+},
+{
+    "Nome": "Shellder",
+    "Numero": 90,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Bivalve",
+    "Descricao FR": "Sua concha dura repele qualquer tipo de ataque. É vulnerável apenas quando sua concha está aberta.",
+    "Descricao LG": "Ele nada para trás abrindo e fechando sua concha. Sua língua grande sempre fica para fora."
+},
+{
+    "Nome": "Cloyster",
+    "Numero": 91,
+    "Tipo": ["Agua", "Gelo"],
+    "Especie": "Pokemon Bivalve",
+    "Descricao FR": "Para proteção, ele usa sua concha dura. Ele também dispara espinhos de sua concha.",
+    "Descricao LG": "Sua concha é extremamente dura. Ninguém jamais viu o que está dentro."
+},
+{
+    "Nome": "Gastly",
+    "Numero": 92,
+    "Tipo": ["Fantasma", "Veneno"],
+    "Especie": "Pokemon Gás",
+    "Descricao FR": "Quase invisível, este Pokémon gasoso envolve sua presa e a sufoca.",
+    "Descricao LG": "Um ser nascido de gases venenosos. Ele pode sufocar um oponente de qualquer tamanho envolvendo-o com seu corpo gasoso."
+},
+{
+    "Nome": "Haunter",
+    "Numero": 93,
+    "Tipo": ["Fantasma", "Veneno"],
+    "Especie": "Pokemon Gás",
+    "Descricao FR": "Por causa de sua capacidade de passar por paredes, diz-se que ele vem de outra dimensão.",
+    "Descricao LG": "Se você sentir que está sendo observado na escuridão, um Haunter certamente está lá."
+},
+{
+    "Nome": "Gengar",
+    "Numero": 94,
+    "Tipo": ["Fantasma", "Veneno"],
+    "Especie": "Pokemon Sombra",
+    "Descricao FR": "Diz-se que ele emerge de sombras para roubar a vida daqueles que se perdem nas montanhas.",
+    "Descricao LG": "Em uma noite de lua cheia, se as sombras se movem e riem, deve ser um Gengar."
+},
+{
+    "Nome": "Onix",
+    "Numero": 95,
+    "Tipo": ["Pedra", "Terra"],
+    "Especie": "Pokemon Cobra de Pedra",
+    "Descricao FR": "À medida que ele cresce, as porções rochosas de seu corpo endurecem para se tornarem semelhantes a diamantes, embora pretas.",
+    "Descricao LG": "Ele abre túneis no subsolo em busca de comida. Os túneis são usados como ninhos por Diglett."
+},
+{
+    "Nome": "Drowzee",
+    "Numero": 96,
+    "Tipo": ["Psiquico"],
+    "Especie": "Pokemon Hipnose",
+    "Descricao FR": "Põe os inimigos para dormir e come seus sonhos. Ocasionalmente, fica doente por comer sonhos ruins.",
+    "Descricao LG": "Se seu nariz coçar enquanto você dorme, é um sinal certo de que um deles está em cima do seu travesseiro, tentando comer seu sonho pelo nariz."
+},
+{
+    "Nome": "Hypno",
+    "Numero": 97,
+    "Tipo": ["Psiquico"],
+    "Especie": "Pokemon Hipnose",
+    "Descricao FR": "Quando está com muita fome, ele põe os humanos que encontra para dormir e se delicia com seus sonhos.",
+    "Descricao LG": "Evite o contato visual se encontrar um. Ele tentará colocar você para dormir usando seu pêndulo."
+},
+{
+    "Nome": "Krabby",
+    "Numero": 98,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Caranguejo do Rio",
+    "Descricao FR": "Suas pinças são armas poderosas, mas seu grande tamanho as torna desajeitadas de usar.",
+    "Descricao LG": "Ele vive em tocas cavadas na areia. Se suas pinças se quebrarem, elas crescem novamente."
+},
+{
+    "Nome": "Kingler",
+    "Numero": 99,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Pinça",
+    "Descricao FR": "A pinça grande tem uma força de esmagamento de 10.000 cavalos de potência. No entanto, seu tamanho a torna desajeitada.",
+    "Descricao LG": "Sua pinça grande e dura tem 10.000 cavalos de potência. No entanto, sendo tão grande, é difícil de mirar."
+},
+{
+    "Nome": "Voltorb",
+    "Numero": 100,
+    "Tipo": ["Eletrico"],
+    "Especie": "Pokemon Bola",
+    "Descricao FR": "Geralmente encontrado em usinas de energia. Ele tem uma tendência a explodir com o menor choque.",
+    "Descricao LG": "Ele se parece com uma Poké Bola. Ele se autodestrói com o menor choque."
+},
+{
+    "Nome": "Electrode",
+    "Numero": 101,
+    "Tipo": ["Eletrico"],
+    "Especie": "Pokemon Bola",
+    "Descricao FR": "Ele armazena energia elétrica sob alta pressão. Ele explode com o menor estímulo.",
+    "Descricao LG": "Ele explode com o menor estímulo. Diz-se que ele se alimenta da eletricidade na atmosfera."
+},
+{
+    "Nome": "Exeggcute",
+    "Numero": 102,
+    "Tipo": ["Grama", "Psiquico"],
+    "Especie": "Pokemon Ovo",
+    "Descricao FR": "Muitas vezes confundido com ovos. Quando são perturbados, eles rapidamente se reúnem e atacam em enxame.",
+    "Descricao LG": "Suas seis cabeças se atraem e giram. Quando as rachaduras aumentam, está perto de evoluir."
+},
+{
+    "Nome": "Exeggutor",
+    "Numero": 103,
+    "Tipo": ["Grama", "Psiquico"],
+    "Especie": "Pokemon Coco",
+    "Descricao FR": "Diz-se que quando as cabeças caem, elas se agrupam para formar um Exeggcute.",
+    "Descricao LG": "É chamado de 'A Floresta Tropical Ambulante'. Cada uma de suas cabeças de coco tem um rosto e vontade próprios."
+},
+{
+    "Nome": "Cubone",
+    "Numero": 104,
+    "Tipo": ["Terra"],
+    "Especie": "Pokemon Solitário",
+    "Descricao FR": "Por nunca tirar o capacete de caveira que usa, ninguém jamais viu o verdadeiro rosto deste Pokémon.",
+    "Descricao LG": "Ele usa o crânio de sua mãe falecida como capacete. Seu choro ecoa dentro do crânio e soa como uma melodia triste."
+},
+{
+    "Nome": "Marowak",
+    "Numero": 105,
+    "Tipo": ["Terra"],
+    "Especie": "Pokemon Guarda-ossos",
+    "Descricao FR": "O osso que ele segura é sua principal arma. Ele o arremessa com habilidade como um bumerangue para derrubar sua presa.",
+    "Descricao LG": "Ele é pequeno e originalmente fraco. Ele se tornou feroz a partir do momento em que aprendeu a usar ossos."
+},
+{
+    "Nome": "Hitmonlee",
+    "Numero": 106,
+    "Tipo": ["Lutador"],
+    "Especie": "Pokemon Chutador",
+    "Descricao FR": "Quando em apuros, ele estica suas pernas. Elas podem se esticar até o dobro de seu comprimento original.",
+    "Descricao LG": "Suas pernas se contraem e se esticam livremente. Usando essas pernas elásticas, ele chuta os inimigos."
+},
+{
+    "Nome": "Hitmonchan",
+    "Numero": 107,
+    "Tipo": ["Lutador"],
+    "Especie": "Pokemon Socador",
+    "Descricao FR": "Os socos que ele desfere giram em alta velocidade. Até mesmo um leve arranhão pode resultar em uma queimadura.",
+    "Descricao LG": "O espírito de um boxeador que estava treinando para um campeonato mundial possuiu este Pokémon."
+},
+{
+    "Nome": "Lickitung",
+    "Numero": 108,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Lambedor",
+    "Descricao FR": "Sua língua pode se estender como a de um camaleão. Ela pode se esticar até quase 2 metros.",
+    "Descricao LG": "Sua língua tem mais de 2 metros de comprimento. Se ele a estender, ele treme e sua cauda balança."
+},
+{
+    "Nome": "Koffing",
+    "Numero": 109,
+    "Tipo": ["Veneno"],
+    "Especie": "Pokemon Gás Venenoso",
+    "Descricao FR": "Por armazenar vários tipos de gases venenosos em seu corpo, ele está propenso a explodir sem aviso.",
+    "Descricao LG": "Seu corpo fino e semelhante a um balão é preenchido com gases tóxicos. Ele flutua em áreas sujas e imundas."
+},
+{
+    "Nome": "Weezing",
+    "Numero": 110,
+    "Tipo": ["Veneno"],
+    "Especie": "Pokemon Gás Venenoso",
+    "Descricao FR": "Onde dois tipos de gases venenosos se encontram, dois Koffing podem se fundir em um Weezing ao longo de muitos anos.",
+    "Descricao LG": "Ele cresce sugando os gases emitidos pelo lixo. Embora raro, trigêmeos foram encontrados."
+},
+{
+    "Nome": "Rhyhorn",
+    "Numero": 111,
+    "Tipo": ["Pedra", "Terra"],
+    "Especie": "Pokemon Espigão",
+    "Descricao FR": "Seu cérebro é pequeno. Ele é estúpido, mas incrivelmente forte. Ele pode derrubar um prédio alto.",
+    "Descricao LG": "Forte, mas não muito inteligente, este Pokémon pode destruir edifícios com suas investidas. Ele esquece por que começou a correr."
+},
+{
+    "Nome": "Rhydon",
+    "Numero": 112,
+    "Tipo": ["Pedra", "Terra"],
+    "Especie": "Pokemon Broca",
+    "Descricao FR": "Protegido por uma pele semelhante a uma armadura, ele é capaz de viver em lava derretida a 2.000 graus.",
+    "Descricao LG": "Ele começa a andar sobre as patas traseiras após a evolução. Ele pode facilmente derrubar edifícios com um golpe de sua cauda."
+},
+{
+    "Nome": "Chansey",
+    "Numero": 113,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Ovo",
+    "Descricao FR": "Um Pokémon raro e esquivo que se diz trazer felicidade. Ele põe ovos nutritivos.",
+    "Descricao LG": "Ele põe vários ovos por dia. Os ovos são altamente nutritivos e extremamente deliciosos."
+},
+{
+    "Nome": "Tangela",
+    "Numero": 114,
+    "Tipo": ["Grama"],
+    "Especie": "Pokemon Vinha",
+    "Descricao FR": "Seu corpo inteiro é coberto por vinhas azuis que escondem sua verdadeira identidade.",
+    "Descricao LG": "As vinhas que cobrem seu corpo se quebram facilmente se forem agarradas. Novas vinhas crescem no dia seguinte."
+},
+{
+    "Nome": "Kangaskhan",
+    "Numero": 115,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Parente",
+    "Descricao FR": "O filhote raramente sai da bolsa protetora de sua mãe até ter cerca de três anos de idade.",
+    "Descricao LG": "Ele cria seus filhotes em sua bolsa abdominal. Ele só permite que o filhote saia para brincar quando é seguro."
+},
+{
+    "Nome": "Horsea",
+    "Numero": 116,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Dragão",
+    "Descricao FR": "Conhecido por derrubar insetos voadores com jatos de tinta precisos da superfície da água.",
+    "Descricao LG": "Se for atacado por um inimigo maior, ele nada para a segurança usando sua barbatana dorsal bem desenvolvida."
+},
+{
+    "Nome": "Seadra",
+    "Numero": 117,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Dragão",
+    "Descricao FR": "Capaz de nadar para trás rapidamente, batendo suas barbatanas peitorais. Seus espinhos são venenosos.",
+    "Descricao LG": "Ele gera redemoinhos perfurando seu corpo e girando. Os redemoinhos são fortes o suficiente para engolir barcos de pesca."
+},
+{
+    "Nome": "Goldeen",
+    "Numero": 118,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Peixe Dourado",
+    "Descricao FR": "Suas barbatanas peitorais são como músculos. Ele pode nadar a uma velocidade de cinco nós.",
+    "Descricao LG": "Na primavera, cardumes de Goldeen podem ser vistos nadando rio acima, tão numerosos que tingem os rios de vermelho."
+},
+{
+    "Nome": "Seaking",
+    "Numero": 119,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Peixe Dourado",
+    "Descricao FR": "Na época da desova, ele pode ser visto nadando rio acima. Ele usa seu chifre para abrir caminho.",
+    "Descricao LG": "Ele usa seu chifre para perfurar buracos em pedregulhos no leito do rio para fazer um ninho. Ele protegerá seus ovos com sua vida."
+},
+{
+    "Nome": "Staryu",
+    "Numero": 120,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Estrela",
+    "Descricao FR": "Um Pokémon enigmático que pode regenerar facilmente qualquer apêndice que perca em batalha.",
+    "Descricao LG": "Ele pode regenerar qualquer membro que perca. O núcleo em seu centro brilha com uma luz vermelha à noite."
+},
+{
+    "Nome": "Starmie",
+    "Numero": 121,
+    "Tipo": ["Agua", "Psiquico"],
+    "Especie": "Pokemon Misterioso",
+    "Descricao FR": "Seu núcleo central brilha com as sete cores do arco-íris. Alguns valorizam o núcleo como uma gema.",
+    "Descricao LG": "Este Pokémon tem um corpo geométrico. Por causa de sua natureza, diz-se que ele é de outro mundo."
+},
+{
+    "Nome": "Mr. Mime",
+    "Numero": 122,
+    "Tipo": ["Psiquico"],
+    "Especie": "Pokemon Barreira",
+    "Descricao FR": "Se interrompido durante a mímica, ele dará um tapa no ofensor com suas mãos grandes.",
+    "Descricao LG": "Sempre praticando mímica. Parece acreditar que algo que ele está imitando é real."
+},
+{
+    "Nome": "Scyther",
+    "Numero": 123,
+    "Tipo": ["Inseto", "Voador"],
+    "Especie": "Pokemon Louva-a-deus",
+    "Descricao FR": "Com a velocidade de um ninja, ele pode criar a ilusão de que existem vários dele.",
+    "Descricao LG": "Ele corta e fatia com as foices em seus antebraços. Ele raramente bate suas asas para voar."
+},
+{
+    "Nome": "Jynx",
+    "Numero": 124,
+    "Tipo": ["Gelo", "Psiquico"],
+    "Especie": "Pokemon Forma Humana",
+    "Descricao FR": "Ele fala uma linguagem que soa humana. No entanto, ainda é impossível entender o que ele está dizendo.",
+    "Descricao LG": "Ele balança seus quadris sedutoramente enquanto anda. Pode fazer as pessoas dançarem em uníssono com ele."
+},
+{
+    "Nome": "Electabuzz",
+    "Numero": 125,
+    "Tipo": ["Eletrico"],
+    "Especie": "Pokemon Elétrico",
+    "Descricao FR": "Normalmente encontrado perto de usinas de energia, ele pode causar grandes apagões em cidades.",
+    "Descricao LG": "Metade de todos os apagões são causados por este Pokémon se alimentando de eletricidade de grandes usinas de energia."
+},
+{
+    "Nome": "Magmar",
+    "Numero": 126,
+    "Tipo": ["Fogo"],
+    "Especie": "Pokemon Cuspidor de Fogo",
+    "Descricao FR": "Seu corpo queima com um brilho laranja, então ele pode se esconder perfeitamente em qualquer chama.",
+    "Descricao LG": "Nascido em um vulcão ativo. Seu corpo está coberto de chamas que brilham como o sol."
+},
+{
+    "Nome": "Pinsir",
+    "Numero": 127,
+    "Tipo": ["Inseto"],
+    "Especie": "Pokemon Besouro Chifrudo",
+    "Descricao FR": "Se ele não conseguir esmagar o inimigo em suas pinças, ele o arremessará para longe.",
+    "Descricao LG": "Suas pinças são fortes o suficiente para esmagar troncos. Como não gosta do frio, ele se enterra no subsolo no outono."
+},
+{
+    "Nome": "Tauros",
+    "Numero": 128,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Touro Selvagem",
+    "Descricao FR": "Quando ele se chicoteia em um frenesi com suas três caudas, ele investe em linha reta.",
+    "Descricao LG": "Uma vez que ele começa a atacar, ele não para até atingir algo. Ele é conhecido por sua natureza violenta."
+},
+{
+    "Nome": "Magikarp",
+    "Numero": 129,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Peixe",
+    "Descricao FR": "No passado distante, era um pouco mais forte do que os espécimes patéticos de hoje.",
+    "Descricao LG": "É um Pokémon fraco e patético. Ele pode ser encontrado em rios, lagos e até mesmo em poças."
+},
+{
+    "Nome": "Gyarados",
+    "Numero": 130,
+    "Tipo": ["Agua", "Voador"],
+    "Especie": "Pokemon Atroz",
+    "Descricao FR": "Raro de se ver na natureza. Enorme e vicioso, é capaz de destruir cidades inteiras em fúria.",
+    "Descricao LG": "Tem uma natureza extremamente viciosa. Ele causa estragos até que tudo ao seu redor seja destruído."
+},
+{
+    "Nome": "Lapras",
+    "Numero": 131,
+    "Tipo": ["Agua", "Gelo"],
+    "Especie": "Pokemon Transporte",
+    "Descricao FR": "Um Pokémon que foi caçado quase até a extinção. Ele pode transportar pessoas em suas costas.",
+    "Descricao LG": "Sua alta inteligência permite que ele entenda a fala humana. Ele adora transportar pessoas em suas costas."
+},
+{
+    "Nome": "Ditto",
+    "Numero": 132,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Transformação",
+    "Descricao FR": "Capaz de reconstituir toda a sua estrutura celular para se transformar no que vê.",
+    "Descricao LG": "Quando encontra outro Ditto, ele se move mais rápido do que o normal para se transformar nele."
+},
+{
+    "Nome": "Eevee",
+    "Numero": 133,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Evolução",
+    "Descricao FR": "Um Pokémon raro que se adapta a ambientes hostis, assumindo várias formas evolutivas.",
+    "Descricao LG": "Sua composição genética é irregular. Ele se transforma para se adequar ao seu ambiente."
+},
+{
+    "Nome": "Vaporeon",
+    "Numero": 134,
+    "Tipo": ["Agua"],
+    "Especie": "Pokemon Jato de Bolhas",
+    "Descricao FR": "Vive perto de águas limpas. Sua estrutura celular é semelhante à da água, permitindo que ele se funda na água.",
+    "Descricao LG": "Sua estrutura celular é semelhante às moléculas de água. Ele pode derreter e se tornar invisível na água."
+},
+{
+    "Nome": "Jolteon",
+    "Numero": 135,
+    "Tipo": ["Eletrico"],
+    "Especie": "Pokemon Relâmpago",
+    "Descricao FR": "Ele acumula íons negativos na atmosfera para lançar raios de 10.000 volts.",
+    "Descricao LG": "Cada pelo em seu corpo se eriça quando ele está carregado de eletricidade."
+},
+{
+    "Nome": "Flareon",
+    "Numero": 136,
+    "Tipo": ["Fogo"],
+    "Especie": "Pokemon Chama",
+    "Descricao FR": "Quando armazena energia térmica em seu corpo, sua temperatura pode subir para mais de 1.650 graus.",
+    "Descricao LG": "Ele armazena ar em sua bolsa de chamas e o aquece a 3.000 graus. Ele expele esse fogo."
+},
+{
+    "Nome": "Porygon",
+    "Numero": 137,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Virtual",
+    "Descricao FR": "Um Pokémon que consiste inteiramente em código de programação. Ele é capaz de se mover livremente no ciberespaço.",
+    "Descricao LG": "Usando a tecnologia mais avançada, os cientistas conseguiram criar este Pokémon artificial."
+},
+{
+    "Nome": "Omanyte",
+    "Numero": 138,
+    "Tipo": ["Pedra", "Agua"],
+    "Especie": "Pokemon Espiral",
+    "Descricao FR": "Um Pokémon antigo que foi regenerado a partir de um fóssil. Ele nada torcendo seus 10 tentáculos.",
+    "Descricao LG": "Embora extinto, em raras ocasiões, pode ser geneticamente regenerado a partir de fósseis."
+},
+{
+    "Nome": "Omastar",
+    "Numero": 139,
+    "Tipo": ["Pedra", "Agua"],
+    "Especie": "Pokemon Espiral",
+    "Descricao FR": "Apesar de ter tentáculos fortes, acredita-se que ele tenha se extinguido porque sua concha era muito grande e pesada.",
+    "Descricao LG": "Ele ataca sua presa envolvendo-a com seus tentáculos. Ele quebra a concha de Shellder e suga o conteúdo."
+},
+{
+    "Nome": "Kabuto",
+    "Numero": 140,
+    "Tipo": ["Pedra", "Agua"],
+    "Especie": "Pokemon Marisco",
+    "Descricao FR": "Um Pokémon que foi regenerado a partir de um fóssil. Ele se esconde no fundo do oceano.",
+    "Descricao LG": "Diz-se que este Pokémon existe há 300 milhões de anos. Ele se esconde no fundo do mar."
+},
+{
+    "Nome": "Kabutops",
+    "Numero": 141,
+    "Tipo": ["Pedra", "Agua"],
+    "Especie": "Pokemon Marisco",
+    "Descricao FR": "Sua forma esguia é perfeita para nadar. Ele corta sua presa com suas garras afiadas e drena seus fluidos.",
+    "Descricao LG": "Diz-se que ele se adaptou à vida em terra. Ele corta sua presa com suas foices afiadas."
+},
+{
+    "Nome": "Aerodactyl",
+    "Numero": 142,
+    "Tipo": ["Pedra", "Voador"],
+    "Especie": "Pokemon Fóssil",
+    "Descricao FR": "Um Pokémon feroz que voou pelos céus na era dos dinossauros. Foi regenerado a partir de material genético contido em âmbar.",
+    "Descricao LG": "Um Pokémon pré-histórico que foi regenerado a partir de DNA encontrado em âmbar. Ele voa com um grito agudo."
+},
+{
+    "Nome": "Snorlax",
+    "Numero": 143,
+    "Tipo": ["Normal"],
+    "Especie": "Pokemon Sonolento",
+    "Descricao FR": "Muito preguiçoso. Apenas come e dorme. À medida que fica mais gordo, torna-se cada vez mais preguiçoso.",
+    "Descricao LG": "Não fica satisfeito a menos que coma mais de 400 quilos de comida todos os dias. Quando termina de comer, ele vai dormir."
+},
+{
+    "Nome": "Articuno",
+    "Numero": 144,
+    "Tipo": ["Gelo", "Voador"],
+    "Especie": "Pokemon Congelante",
+    "Descricao FR": "Um pássaro lendário que se diz aparecer para pessoas condenadas perdidas em montanhas geladas.",
+    "Descricao LG": "O lendário pássaro do gelo. Diz-se que ele aparece para pessoas perdidas em montanhas geladas."
+},
+{
+    "Nome": "Zapdos",
+    "Numero": 145,
+    "Tipo": ["Eletrico", "Voador"],
+    "Especie": "Pokemon Elétrico",
+    "Descricao FR": "Um pássaro lendário que se diz aparecer quando o céu fica escuro e raios caem.",
+    "Descricao LG": "Um pássaro lendário que se diz viver em nuvens de trovoada. Ele controla os raios."
+},
+{
+    "Nome": "Moltres",
+    "Numero": 146,
+    "Tipo": ["Fogo", "Voador"],
+    "Especie": "Pokemon Chama",
+    "Descricao FR": "Um dos pássaros lendários. Diz-se que sua aparição anuncia a chegada da primavera.",
+    "Descricao LG": "O lendário pássaro do fogo. Diz-se que ele migra do sul com a chegada da primavera."
+},
+{
+    "Nome": "Dratini",
+    "Numero": 147,
+    "Tipo": ["Dragao"],
+    "Especie": "Pokemon Dragão",
+    "Descricao FR": "Conhecido como o Pokémon 'miragem' por causa de sua raridade. Sua existência foi confirmada por uma colônia encontrada no fundo do mar.",
+    "Descricao LG": "Mesmo o menor Dratini cresce a um tamanho enorme. Ele troca de pele repetidamente."
+},
+{
+    "Nome": "Dragonair",
+    "Numero": 148,
+    "Tipo": ["Dragao"],
+    "Especie": "Pokemon Dragão",
+    "Descricao FR": "Um Pokémon lendário que se diz viver em mares e lagos. Ele pode controlar o clima.",
+    "Descricao LG": "Diz-se que ele vive em mares e lagos. Embora não tenha asas, diz-se que ele pode voar."
+},
+{
+    "Nome": "Dragonite",
+    "Numero": 149,
+    "Tipo": ["Dragao", "Voador"],
+    "Especie": "Pokemon Dragão",
+    "Descricao FR": "Um Pokémon marinho extremamente raro. Sua inteligência é dita como igual à dos humanos.",
+    "Descricao LG": "Diz-se que ele vive em algum lugar do mar. Ele guia navios naufragados e pessoas que estão se afogando para a terra."
+},
+{
+    "Nome": "Mewtwo",
+    "Numero": 150,
+    "Tipo": ["Psiquico"],
+    "Especie": "Pokemon Genético",
+    "Descricao FR": "Um Pokémon criado pela recombinação dos genes de Mew. Diz-se que tem o coração mais selvagem entre todos os Pokémon.",
+    "Descricao LG": "Seu DNA é quase o mesmo de Mew. No entanto, seu tamanho e caráter são muito diferentes."
+},
+{
+    "Nome": "Mew",
+    "Numero": 151,
+    "Tipo": ["Psiquico"],
+    "Especie": "Pokemon Nova Espécie",
+    "Descricao FR": "Tão raro que muitos especialistas acreditam que seja apenas uma miragem. Apenas alguns o viram.",
+    "Descricao LG": "Diz-se que possui o código genético de todos os Pokémon. Ele pode usar todos os tipos de técnicas."
+}
+]
